@@ -6,7 +6,7 @@ An interactive spam detection app built with vanilla JavaScript. This project de
 
 ## 🚀 Live Demo
 
-[View Project](https://himanshu-kumar-2301.github.io/project-name/)
+[View Project](https://himanshu-kumar-2301.github.io/fcc-js-spam-filter/)
 
 ---
 
@@ -51,13 +51,13 @@ root/
 1. Clone the repo:
 
     ```bash
-    git clone https://github.com/Himanshu-Kumar-2301/project-name.git
+    git clone https://github.com/Himanshu-Kumar-2301/fcc-js-spam-filter.git
     ```
 
 2. Navigate into the folder
 
     ```bash
-    cd project-name
+    cd fcc-js-spam-filter
     ```
 
 3. Open ```index.html``` in your browser.
