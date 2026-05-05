@@ -1,6 +1,6 @@
-# Project Title
+# Spam Filter
 
-*An interactive storytelling app built with vanilla JavaScript.*
+An interactive spam detection app built with vanilla JavaScript. This project demonstrates how to detect and filter spam messages using keyword analysis, scoring logic, DOM manipulation, and basic RegEx.
 
 ---
 
@@ -26,9 +26,10 @@
 
 ## 📚 Features
 
-- Feature 1: Brief description
-- Feature 2: Brief description
-- Feature 3: Brief description
+- **Keyword-based detection**: Flags messages containing common spam words (e.g., "free", "win", "offer").
+- **Interactive UI**: Users can input text and instantly see whether it is classified as spam or safe.
+- **Modular JavaScript**: Clean separation of logic for scalability and readability.
+- **Responsive design**: Works across desktop and mobile browsers.
 
 ---
 
@@ -65,6 +66,9 @@ root/
 
 - Add accessibility enhancements
 - Improve mobile responsiveness
-- Add more interactive features
+- Expand RegEx patterns for more robust spam detection
+- Add option to customize spam keyword list
 
 ## ℹ️ About
+
+This project is part of the **FreeCodeCamp JavaScript curriculum** and highlights skills in **DOM manipulation, text processing, and modular JavaScript design**. It serves as a practical example of building an interactive web app with real‑world use cases.
